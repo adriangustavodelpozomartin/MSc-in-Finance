@@ -163,7 +163,7 @@ Rp_Tangent_Q6=pReturn2(ind3)*12*100
 Volat_Tangent_Q6=pRisk2(ind3)*sqrt(12)*100
 W_Tangent_Q6=W2(:,ind3)
 
-disp('----------- We have finished this exercise¡¡¡   -------')
+disp('----------- We have finished this exerciseÂ¡Â¡Â¡   -------')
 
 
 
